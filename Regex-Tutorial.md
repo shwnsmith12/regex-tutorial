@@ -12,7 +12,7 @@ A Regex (or regular expression) is a sequence of characters that help us define 
 
 Example: `/^<([a-z]+)([^<]+)*(?:>(.*)<\/\1>|\s+\/>)$/`
 
-Please read below to learn how to decipher this code, and others like it!
+Please read below to learn how to decipher codes like the one above!
 
 ## Table of Contents
 
